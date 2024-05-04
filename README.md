@@ -39,7 +39,8 @@ Ready to embark on this transformative data journey? Strap in and navigate throu
 
 ## 🚀 Architecture/Workflows
 
-[Insert Architecture/Workflows Diagram Here]
+![313504181-321a5329-edc2-4715-b8d9-77e03a70341e](https://github.com/aifreak00/Real-time-Data-Ingestion-for-Smart-City-Streaming/assets/113664560/823698b3-7757-45bb-ad3d-2687e327d368)
+
 
 
 
