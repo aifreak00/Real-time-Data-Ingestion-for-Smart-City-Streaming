@@ -55,5 +55,5 @@ Ready to embark on this transformative data journey? Strap in and navigate throu
 
 - **spark-city.py**: Consumes data from Kafka topics and streams it to designated Amazon S3 buckets.
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
 
