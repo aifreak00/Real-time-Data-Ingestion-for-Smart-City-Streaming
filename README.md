@@ -64,6 +64,8 @@ Ready to embark on this transformative data journey? Strap in and navigate throu
 
 ![s (12)](https://github.com/aifreak00/Real-time-Data-Ingestion-for-Smart-City-Streaming/assets/113664560/5c333abd-89e4-4a39-a17f-40e121fc1a31)
 
+![s (5)](https://github.com/aifreak00/Real-time-Data-Ingestion-for-Smart-City-Streaming/assets/113664560/c641a81d-4d87-455a-9423-cb562cd483f5)
+
 
 
 
